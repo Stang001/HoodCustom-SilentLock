@@ -21,4 +21,4 @@ getgenv().DontShootThesePeople = {  -- [ List Of Who Not To Shoot like this. "Qu
 
 task.wait(1)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Stang001/HoodCustom-SilentLock/.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stang001/HoodCustom-SilentLock/main/.lua"))()
